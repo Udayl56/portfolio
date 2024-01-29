@@ -1,0 +1,177 @@
+body {
+    background: #FDFDFD;
+}
+
+a {
+    text-decoration: none;
+    color: #6B6F79;
+
+}
+
+a:hover {
+    color: black;
+}
+
+
+.profileImg {
+    background: #dddddd;
+    width: auto;
+    height: 300px
+}
+
+.normalroboto:hover {
+    background-color: #2e4a57;
+}
+
+
+
+
+
+.bg-E4F2F2 {
+    background: #436971;
+
+}
+
+.bg {
+    background-color: #37B1A8;
+}
+
+.fc-6B6F79 {
+    color: #6B6F79;
+}
+
+.fc-white {
+    color: #F8FAFA;
+
+}
+
+.font-small {
+    font-size: small;
+    color: #80f6ee;
+}
+
+.normalroboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+.ff-Spartan {
+    font-family: 'League Spartan', sans-serif;
+
+}
+
+/* skills */
+.js:hover {
+    background: rgb(255, 204, 0);
+    color: #ffffff;
+}
+
+.js {
+    color: rgb(255, 204, 0);
+
+}
+
+
+
+.bt:hover {
+    background: #8319FB;
+    color: #ffffff;
+}
+
+.bt {
+    color: #8319FB;
+}
+
+.nj {
+    color: #19cf1f;
+}
+
+.nj:hover {
+    background: #19cf1f;
+    color: #ffffff;
+}
+
+.py {
+    color: rgb(224, 224, 3);
+}
+
+.py:hover {
+    background: rgb(224, 224, 3);
+    color: #ffffff;
+
+
+}
+
+.rj {
+    color: #50D6FF;
+}
+
+.rj:hover {
+    background: #50D6FF;
+    color: #ffffff;
+
+
+}
+
+.jv {
+    color: #E76F00;
+}
+
+.jv:hover {
+    background: #E76F00;
+    color: #ffffff;
+
+
+}
+
+.css {
+    color: #2F99D2;
+}
+
+.css:hover {
+    background: #2F99D2;
+    color: #ffffff;
+
+}
+
+.html {
+    color: #F16A30;
+}
+
+.html:hover {
+    background: #F16A30;
+    color: #ffffff;
+
+}
+
+.mg {
+    color: #1AAD57;
+}
+
+.mg:hover {
+    background: #1AAD57;
+    color: #ffffff;
+
+}
+
+.c {
+    color: #004482
+}
+
+.c:hover {
+    background: #004482;
+    color: #ffffff;
+
+}
+
+.boxshadow {
+    box-shadow: 10px 10px #888888
+}
+
+.text--Justify {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+@media screen and (min) {}
